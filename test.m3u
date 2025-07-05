@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="11" tvg-name="כאן 11" group-title="Kan",כאן 11
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxntss/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="מכאן" group-title="Kan",מכאן
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="80" tvg-name="חינוכית" group-title="Kan",חינוכית
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_b" tvg-name="כאן ב" group-title="Kan",כאן ב
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_eu4h60uh/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_88" tvg-name="כאן 88" group-title="Kan",כאן 88
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vgikv6ai/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_g" tvg-name="כאן גימל" group-title="Kan",כאן גימל
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_ovs9mqn0/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_tarbut" tvg-name="תרבות" group-title="Kan",תרבות
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_krhoh5g1/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_music" tvg-name="כאן קול המוזיקה" group-title="Kan",כאן קול המוזיקה
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_f383er43/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_moreshet" tvg-name="כאן מורשת" group-title="Kan",כאן מורשת
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_77fh7ekt/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="kan_reka" tvg-name="כאן REKA" group-title="Kan",כאן REKA
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8gp8l2wf/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="רשת 13" group-title="Reshet",רשת 13
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profileManifest.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="קשת 12" group-title="Keshet",קשת 12
+https://keshetlive.mako.co.il/live/hls/0128.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="ערוץ 14" group-title="14",ערוץ 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="i24NEWS" group-title="i24",i24NEWS
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="i24NEWS English" group-title="i24",i24NEWS English
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="ערוץ הכנסת" group-title="Knesset",ערוץ הכנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+
 # === ערוצים בעברית ===
 #EXTINF:-1 tvg-id="Kan11" tvg-name="כאן 11" group-title="עברית", כאן 11
 https://kan11.media.kan.org.il/hls/live/2024520/2024520/2024520.m3u8
