@@ -1,0 +1,46 @@
+#EXTM3U
+
+# === ערוצים בעברית ===
+#EXTINF:-1 tvg-id="Kan11" tvg-name="כאן 11" group-title="עברית", כאן 11
+https://kan11.media.kan.org.il/hls/live/2024520/2024520/2024520.m3u8
+
+#EXTINF:-1 tvg-id="Makan33" tvg-name="מַכַּאן 33" group-title="עברית", מכאן 33
+https://makan33.media.kan.org.il/hls/live/2024525/2024525/2024525.m3u8
+
+#EXTINF:-1 tvg-id="Knesset" tvg-name="הכנסת" group-title="עברית", ערוץ הכנסת
+https://33.live.streamcdn.co.il/live/33tv/playlist.m3u8
+
+# === ספורט בינלאומי ===
+#EXTINF:-1 tvg-name="Sport Global" group-title="ספורט", Sport Global 1
+http://edge6.vediostream.com/abr/sport1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LaLiga TV" group-title="ספורט", LaLiga TV
+http://livetvstreamshd.com/laliga.m3u8
+
+# === סדרות טורקיות ===
+#EXTINF:-1 tvg-name="TR Drama" group-title="טורקית", Kanal D Drama
+https://live-kdachannel.akamaized.net/hls/live/2005520/kdadrama/index.m3u8
+
+#EXTINF:-1 tvg-name="TR Show TV" group-title="טורקית", Show TV Turkey
+https://tv-tr.showtv.com.tr/live/playlist.m3u8
+
+# === סדרות איטלקיות ===
+#EXTINF:-1 tvg-name="RAI 1" group-title="איטלקית", Rai 1
+https://raiuno1-live-hls.msf.cdn.mediaset.net/live/raiuno1/raiuno1.m3u8
+
+#EXTINF:-1 tvg-name="Canale 5" group-title="איטלקית", Canale 5
+https://live.canale5.mediaset.it/playlist.m3u8
+
+# === סדרות ספרדיות ===
+#EXTINF:-1 tvg-name="Antena 3" group-title="ספרדית", Antena 3
+https://stream-antena3.akamaized.net/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVE Internacional" group-title="ספרדית", TVE
+https://rtvelivestreamv3-lh.akamaihd.net/i/tve_int@132606/index_3_av-b.m3u8
+
+# === סדרות ברזילאיות ===
+#EXTINF:-1 tvg-name="Globo" group-title="ברזילאית", Globo Brazil
+https://stream-live.globo.com/globo/live.m3u8
+
+#EXTINF:-1 tvg-name="RecordTV" group-title="ברזילאית", Record TV
+https://stream.recordtv.com.br/playlist.m3u8
